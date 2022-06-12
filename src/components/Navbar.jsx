@@ -55,7 +55,7 @@ export const Navbar = () => {
             onClick={isOpen ? onClose : onOpen}
           />
           <HStack spacing={8} alignItems={"center"}>
-            <Box>Logo</Box>
+            <Box>Logo Soumya</Box>
             <HStack
               as={"nav"}
               spacing={4}
